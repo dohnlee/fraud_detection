@@ -1,7 +1,7 @@
 # fraud_detection
 AE for fraud_detection 
 
-# how to run
+### how to run
 
 1. make `./data` dir 
 
